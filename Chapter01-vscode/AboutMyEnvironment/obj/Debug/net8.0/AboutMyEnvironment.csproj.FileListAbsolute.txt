@@ -1,0 +1,15 @@
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.exe
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.deps.json
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.runtimeconfig.json
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.dll
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.pdb
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfo.cs
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.sourcelink.json
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.dll
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\refint\AboutMyEnvironment.dll
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.pdb
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.genruntimeconfig.cache
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\ref\AboutMyEnvironment.dll

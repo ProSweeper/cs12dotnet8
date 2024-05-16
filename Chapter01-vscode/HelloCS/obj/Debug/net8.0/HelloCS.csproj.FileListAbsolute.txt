@@ -1,0 +1,15 @@
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.exe
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.deps.json
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.runtimeconfig.json
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.dll
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.pdb
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfo.cs
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.sourcelink.json
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.dll
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.pdb
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.genruntimeconfig.cache
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\ref\HelloCS.dll
