@@ -1,0 +1,15 @@
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfoInputs.cache
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfo.cs
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.csproj.CoreCompileInputs.cache
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.sourcelink.json
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.deps.json
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.runtimeconfig.json
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.dll
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.pdb
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.dll
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/refint/Vocabulary.dll
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.pdb
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.genruntimeconfig.cache
+/home/dylan/code/csharp/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/ref/Vocabulary.dll
