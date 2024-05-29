@@ -1,0 +1,15 @@
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\bin\Debug\net8.0\WritingFunctions.exe
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\bin\Debug\net8.0\WritingFunctions.deps.json
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\bin\Debug\net8.0\WritingFunctions.runtimeconfig.json
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\bin\Debug\net8.0\WritingFunctions.dll
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\bin\Debug\net8.0\WritingFunctions.pdb
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\WritingFunctions.AssemblyInfo.cs
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\WritingFunctions.sourcelink.json
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\WritingFunctions.dll
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\refint\WritingFunctions.dll
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\WritingFunctions.pdb
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\WritingFunctions.genruntimeconfig.cache
+C:\Users\ddoucet\code\csharp\cs12dotnot8\Chapter04\WritingFunctions\obj\Debug\net8.0\ref\WritingFunctions.dll
